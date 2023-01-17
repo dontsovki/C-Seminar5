@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programisy\\Знакомство с языками программирования\\Seminar5\\Task4\\Task4.csproj": {}
+    "E:\\programisy\\Знакомство с языками программирования\\Seminar5\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "D:\\programisy\\Знакомство с языками программирования\\Seminar5\\Task4\\Task4.csproj": {
+    "E:\\programisy\\Знакомство с языками программирования\\Seminar5\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programisy\\Знакомство с языками программирования\\Seminar5\\Task4\\Task4.csproj",
+        "projectUniqueName": "E:\\programisy\\Знакомство с языками программирования\\Seminar5\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "D:\\programisy\\Знакомство с языками программирования\\Seminar5\\Task4\\Task4.csproj",
+        "projectPath": "E:\\programisy\\Знакомство с языками программирования\\Seminar5\\Task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-        "outputPath": "D:\\programisy\\Знакомство с языками программирования\\Seminar5\\Task4\\obj\\",
+        "outputPath": "E:\\programisy\\Знакомство с языками программирования\\Seminar5\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Артём\\AppData\\Roaming\\NuGet\\NuGet.Config"
